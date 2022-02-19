@@ -3,36 +3,36 @@
         "name": "Dental",
         "id": "1",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
-        "image": "FaTooth"
+        "icon": "FaTooth"
     },
     {
         "name": "Cardiology",
         "id": "2",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
-        "image": "GiKidneys"
+        "icon": "GiKidneys"
     },
     {
         "name": "Neurology",
         "id": "3",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
-        "image": "GiBrain"
+        "icon": "GiBrain"
     },
     {
         "name": "Bond Binding",
         "id": "4",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
-        "image": "BiBone"
+        "icon": "BiBone"
     },
     {
         "name": "X-Ray",
         "id": "5",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
-        "image": "GiBrokenBone"
+        "icon": "GiBrokenBone"
     },
     {
         "name": "Pregnency",
         "id": "6",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
-        "image": "MdPregnantWoman"
+        "icon": "MdPregnantWoman"
     }
 ]
