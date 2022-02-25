@@ -2,7 +2,8 @@
     {
         "name": "Dental",
         "id": "1",
-        "description": "Dentistry is the diagnosis, treatment, and prevention of conditions, disorders, and diseases of the teeth, gums, mouth, and jaw. Often considered necessary for complete oral health, dentistry can have an impact on the health of your entire body."
+        "description": "Dentistry is the diagnosis, treatment, and prevention of conditions, disorders, and diseases of the teeth, gums, mouth, and jaw. Often considered necessary for complete oral health, dentistry can have an impact on the health of your entire body.",
+        "icon": "fa-solid fa-tooth"
     },
     {
         "name": "Cardiology",
