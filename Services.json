@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dental",
+    "id": "1",
+    "description": "Dentistry is the diagnosis, treatment, and prevention of conditions, disorders, and diseases of the teeth, gums, mouth, and jaw. Often considered necessary for complete oral health, dentistry can have an impact on the health of your entire body.",
+    "img": "https://i.ibb.co/fS66gwY/patient-dental.jpg"
+  },
+  {
+    "name": "Cardiology",
+    "id": "2",
+    "description": "Cardiology is a medical specialty and a branch of internal medicine concerned with disorders of the heart. It deals with the diagnosis and treatment of such conditions as congenital heart defects, coronary artery disease, electrophysiology, heart failure and valvular heart disease.",
+    "img": "https://i.ibb.co/56KvM2g/invasive-cardiology-380x390-1.jpg"
+  },
+  {
+    "name": "Neurology",
+    "id": "3",
+    "description": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system that regulates and coordinates body activities. It has two major divisions: Central nervous system: the brain and spinal cord.",
+    "img": "https://i.ibb.co/yFqdgnS/ks-neurology-400x350.jpg"
+  },
+  {
+    "name": "Bond Binding",
+    "id": "4",
+    "description": "Molecular binding is an attractive interaction between two molecules that results in a stable association in which the molecules are in close proximity to each other. It is formed when atoms or molecules bind together by sharing of electrons. It often, but not always, involves some chemical bonding.",
+    "img": "https://i.ibb.co/R3PcH7L/i-Stock-623674402.jpg"
+  },
+  {
+    "name": "X-Ray",
+    "id": "5",
+    "description": "An X-ray is a quick, painless test that produces images of the structures inside your body — particularly your bones. X-ray beams pass through your body, and they are absorbed in different amounts depending on the density of the material they pass through.",
+    "img": "https://i.ibb.co/HYD8xvW/istockphoto-136199537-612x612.jpg"
+  },
+  {
+    "name": "Pregnency",
+    "id": "6",
+    "description": "Pregnancy is the term used to describe the period in which a fetus develops inside a woman's womb or uterus. Pregnancy usually lasts about 40 weeks, or just over 9 months, as measured from the last menstrual period to delivery. Health care providers refer to three segments of pregnancy, called trimesters.",
+    "img": "https://i.ibb.co/4F2NL5Z/h1-pregnancy.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Laboratory and diagnostic care",
+    "img": "https://i.ibb.co/QNmt96t/Lab-Tests-And-Diagnostic-300x239.jpg",
+    "description": "Lab tests and diagnostic procedures are tests used to check if a person's health is normal. For example, a lab can test a sample of your blood, urine or body tissue to see if something is wrong. A diagnostic test, like blood pressure testing, can show if you have low or high blood pressure."
+  },
+  {
+    "id": "8",
+    "name": "Physical and occupational therapy",
+    "img": "https://i.ibb.co/3B031X9/Occupational-Therapy-vs-Physical-Therapy-1.webp",
+    "description": "Physical therapy (PT) and occupational therapy (OT) are types of rehabilitative care. While they have similar goals and treat many of the same conditions, they also differ. PT focuses on restoring or improving movement, strength, and range of motion. OT aims to improve the motor skills you need to perform daily tasks."
+  },
+  {
+    "id": "9",
+    "name": "Nutritional support.",
+    "img": "https://i.ibb.co/LnQnYxm/Nutritional-Support.jpg",
+    "description": "Nutritional support is therapy for people who cannot get enough nourishment by eating or drinking. You may need it if you : Can't swallow. Have problems with your appetite. Are severely malnourished."
+  },
+  {
+    "id": "10",
+    "name": "Pharmaceutical care",
+    "img": "https://i.ibb.co/D13gjfc/Sept-27-pharmacy-assistant-school.jpg",
+    "description": "Pharmaceutical care is the direct, responsible provision of medication-related care for the purpose of achieving defi- nite outcomes that improve a patient's quality of life."
+  },
+  {
+    "id": "11",
+    "name": "Transportation",
+    "img": "https://i.ibb.co/yhJvMQB/Desktop.jpg",
+    "description": "transportation, the movement of goods and persons from place to place and the various means by which such movement is accomplished."
+  },
+  {
+    "id": "12",
+    "name": "Prenatal care",
+    "img": "https://i.ibb.co/7VpBjFx/pregnancyandbreastfeeding-ill-hero-16-9-1600x900.png",
+    "description": "Prenatal care is when you get checkups from a doctor, nurse, or midwife throughout your pregnancy. It helps keep you and your future baby healthy."
+  },
+  {
+    "id": "13",
+    "name": "Surgical Center",
+    "img": "https://i.ibb.co/HVRhzcS/Cardiac-surgery-operating-room.jpg",
+    "description": "a Surgery Center. Surgery centers, also known as ambulatory surgery centers (ASCs), are licensed, freestanding outpatient facilities. ... These centers are often physician-owned, may specialize in certain procedure and are typically smaller than hospitals."
+  },
+  {
+    "id": "14",
+    "name": "Nursing Home",
+    "img": "https://i.ibb.co/Bgvn9Pw/nursing-home-care-1-500x333.jpg",
+    "description": "The purpose of a nursing home is to provide care and support for people with specific conditions or different types of disabilities who struggle significantly with daily life and need the added support."
+  },
+  {
+    "id": "15",
+    "name": "Care from home health aides",
+    "img": "https://i.ibb.co/2tvF41G/istockphoto-1011187336-612x612.jpg",
+    "description": "Home health aides can help the patient with his or her basic personal needs such as getting out of bed, walking, bathing, and dressing. Some aides have received specialized training to assist with more specialized care under the supervision of a nurse."
+  }
+]
