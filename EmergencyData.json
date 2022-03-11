@@ -1,1 +1,27 @@
 
+[
+  {
+    "name": "Ambulance",
+    "id": "1",
+    "description": "Emergency medical services, also known as ambulance services or paramedic services, are emergency services that provide urgent pre-hospital treatment and stabilisation for serious illness and injuries and transport to definitive care.",
+    "call": "Call Now"
+  },
+  {
+    "name": "Emergency Call",
+    "id": "2",
+    "description": "A telephone call to the emergency services made during an emergency. Police and paramedics responded to an emergency call and took the victim to hospital.",
+    "call": "Call Now"
+  },
+  {
+    "name": "24/7 Service",
+    "id": "3",
+    "description": "In commerce and industry, 24/7 or 24-7 service is service that is available at any time and usually, every day. An alternate orthography for the numerical part includes 24×7. The numerals stand for \"24 hours a day, 7 days a week",
+    "call": "Call Now"
+  },
+  {
+    "name": "New Born",
+    "id": "4",
+    "description": "A newborn baby or animal is one that has just been born. This equipment has saved the lives of a number of new born children.",
+    "call": "Call Now"
+  }
+]
