@@ -15,7 +15,7 @@
   },
   {
     "name": "24/7 Service",
-    "icon": "far fa-user-headset",
+    "icon": "fad fa-user-headset",
     "id": "3",
     "description": "In commerce and industry, 24/7 or 24-7 service is service that is available at any time and usually, every day. An alternate orthography for the numerical part includes 24×7. The numerals stand for \"24 hours a day, 7 days a week",
     "call": "Call Now"
@@ -24,7 +24,7 @@
     "name": "New Born",
     "icon": "fas fa-baby",
     "id": "4",
-    "description": "A newborn baby is one that has just been born. This equipment has saved the lives of a number of new born children.",
+    "description": "A newborn baby or animal is one that has just been born. This equipment has saved the lives of a number of new born children.",
     "call": "Call Now"
   }
 ]
