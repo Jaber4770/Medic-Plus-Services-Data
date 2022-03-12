@@ -15,7 +15,7 @@
   },
   {
     "name": "24/7 Service",
-    "icon": "fad fa-user-headset",
+    "icon": "fas fa-headset",
     "id": "3",
     "description": "In commerce and industry, 24/7 or 24-7 service is service that is available at any time and usually, every day. An alternate orthography for the numerical part includes 24×7. The numerals stand for \"24 hours a day, 7 days a week",
     "call": "Call Now"
