@@ -2,7 +2,7 @@
     {
         "name": "Dental",
         "id": "1",
-        "description": "Dentistry is the diagnosis, treatment, and prevention of conditions, disorders, and diseases of the teeth, gums, mouth, and jaw. Often considered necessary for complete oral health, dentistry can have an impact on the health of your entire body.",
+        "description": "Dentistry is the diagnosis, treatment, and prevention of conditions, disorders, and diseases of the teeth, gums, mouth, and jaw. Often considered necessary for complete oral health, dentistry can have an impact on the health of your entire body.Often considered necessary for complete oral health, dentistry can have an impact on the health of your entire body.",
         "icon": "fas fa-tooth"
         
     },
@@ -27,7 +27,7 @@
     {
         "name": "X-Ray",
         "id": "5",
-        "description": "An X-ray is a quick, painless test that produces images of the structures inside your body — particularly your bones. X-ray beams pass through your body, and they are absorbed in different amounts depending on the density of the material they pass through.",
+        "description": "An X-ray is a quick, painless test that produces images of the structures inside your body — particularly your bones. X-ray beams pass through your body, and they are absorbed in different amounts depending on the density of the material they pass through,they are absorbed in different amounts depending on the density of the material they pass through.",
         "icon": "fas fa-x-ray"
     },
     {
