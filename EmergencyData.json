@@ -10,7 +10,7 @@
     "name": "Emergency Call",
     "icon": "fas fa-phone",
     "id": "2",
-    "description": "A telephone call to the emergency services made during an emergency. Police and paramedics responded to an emergency call and took the victim to hospital,Police and paramedics responded to an emergency call and took the victim to hospital.",
+    "description": "A telephone call to the emergency services made during an emergency. Police and paramedics responded to an emergency call and took the victim to hospital,Police and paramedics responded to an emergency call and took the victim.",
     "call": "Call Now"
   },
   {
@@ -24,7 +24,7 @@
     "name": "New Born",
     "icon": "fas fa-baby",
     "id": "4",
-    "description": "A newborn baby or animal is one that has just been born. This equipment has saved the lives of a number of new born children.A newborn baby or animal is one that has just been born. This equipment has saved the lives of a number of new born children.",
+    "description": "A newborn baby or animal is one that has just been born. This equipment has saved the lives of a number of new born children.A newborn baby or animal is one that has just been born. This equipment has saved the lives of a number of new born.",
     "call": "Call Now"
   }
 ]
